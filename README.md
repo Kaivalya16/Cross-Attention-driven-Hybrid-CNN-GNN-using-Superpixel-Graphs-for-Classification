@@ -1,4 +1,3 @@
-```markdown
 # Cross-Attention Driven Hybrid CNN-GNN using Superpixel Graphs
 
 This repository contains the official PyTorch implementation of the **Cross-Attention Driven Hybrid CNN-GNN**. This architecture utilizes SLIC superpixel segmentation and Mid-Fusion Cross-Attention to provide structural regularization for image classification, effectively preventing model collapse on high-resolution, noisy medical radiography.
