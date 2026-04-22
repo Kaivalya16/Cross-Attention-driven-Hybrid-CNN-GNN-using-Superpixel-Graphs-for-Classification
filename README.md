@@ -85,7 +85,7 @@ This project was developed by:
 * **Varun Shirbhayye** (M25DS015)
 * **Akhileshkumar Yadav** (M25DS018)
 
-*MTech in Data Science & Artificial Intelligence - ITT Bhilai*
+*MTech in Data Science & Artificial Intelligence - IIT Bhilai*
 
 ---
 ```
